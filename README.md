@@ -1,7 +1,8 @@
 # Installation
 
 Prerequisites:
-- Python3
+- Python 3
+- Microsoft Excel
 
 Install dependencies
 ```python
